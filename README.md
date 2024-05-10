@@ -1,6 +1,6 @@
 # BoardGameDB
 
-A application with database and GUI components created by Tony Zhang, Juno Yoon, and Nick Huynh.
+A application with database and GUI components created by Tony Zhang, Juno Yoon, and Nick Huynh for our CPSC 304 Project.
 
 ## Project Summary
 
